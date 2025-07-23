@@ -28,36 +28,35 @@ A simple desktop banking application built with Java and MySQL. Users can regist
 
 ## 🖼️ Screenshots
 
-> 📸 A preview of the application's UI. Make sure all `.jpg` files are in the same directory as this `README.md`.
+> 📸 A preview of the application's UI. All `.jpg` files are stored in the `screenshots/` folder.
 
-### 🏦 1. Welcome Screen
-![Welcome Screen](photo1.jpg)
+### 🏦 1. Welcome Screen  
+![Welcome Screen](screenshots/photo1.jpg)
 
-### 🔐 2. Login Screen
-![Login Screen](photo2.jpg)
+### 🔐 2. Login Screen  
+![Login Screen](screenshots/photo2.jpg)
 
-### 📝 3. Create Account
-![Create Account](photo3.jpg)
+### 📝 3. Create Account  
+![Create Account](screenshots/photo3.jpg)
 
-### 🏠 4. Home / Dashboard
-![Dashboard](photo4.jpg)
+### 🏠 4. Home / Dashboard  
+![Dashboard](screenshots/photo4.jpg)
 
-### 💰 5. Deposit Money
-![Deposit Money](photo5.jpg)
+### 💰 5. Deposit Money  
+![Deposit Money](screenshots/photo5.jpg)
 
-### 💸 6. Withdraw Money
-![Withdraw Money](photo6.jpg)
+### 💸 6. Withdraw Money  
+![Withdraw Money](screenshots/photo6.jpg)
 
-### 💱 7. Currency Exchange
-![Currency Exchange](photo7.jpg)
+### 💱 7. Currency Exchange  
+![Currency Exchange](screenshots/photo7.jpg)
 
-### ⚙️ 8. Card Settings
-![Card Settings](photo8.jpg)
+### ⚙️ 8. Card Settings  
+![Card Settings](screenshots/photo8.jpg)
 
-### 📤 9. Send Money
-![Send Money](photo9.jpg)
+### 📤 9. Send Money  
+![Send Money](screenshots/photo9.jpg)
 
----
 
 ## ⚙️ How to Run
 
